@@ -9,6 +9,7 @@ Its an Android App to Download MP3 Audio file of any YouTube video of your choic
 ## Screenshots
 
 ![Activity 1](https://raw.githubusercontent.com/harshitks2203/Vubey/master/resources/Capture.PNG "Entry Page")
+![Activity 2](https://raw.githubusercontent.com/harshitks2203/Vubey/master/resources/Capture2.png "Main Page")
 
 ## Download Apk
 
